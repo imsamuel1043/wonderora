@@ -66,11 +66,6 @@ h2 {
   transition: 0.3s, color 0.3s;
 }
 
-.btn-cta:hover {
-  background-color: #00c3ff;
-  color: #1B1F1D;
-}
-
 .banbtn {
   color: black;
   background-color: #ffffff;
@@ -241,4 +236,10 @@ h1 {
 .map {
   transform: scale(1.05);
   transition: all 0.5s ease;
+}
+
+/* services style */
+
+.serve{
+ font-weight: bold;
 }
